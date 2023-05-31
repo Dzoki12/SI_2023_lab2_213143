@@ -4,7 +4,7 @@
 
 ###  Control Flow Graph
 
-Фотографија од control flow graph-ot 
+![cfg](graf-213143.png) 
 
 ### Цикломатска комплексност
 
